@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title {
+    font-size: x-large;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 1% 10%;
+    padding-bottom: 1%;
+    align-items: center;
+    border-bottom: 2px solid rgb(199, 199, 199);
+}
+.rightstuff {
+    display: flex;
+    align-items: center;
+}
+.SearchIcon {
+    margin-right: 10px;
+}
+.subscribe{
+    color: #1976d2;
+}

@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 10%;
+    margin-top: 4%;
+    background: url(./plant.png);
+    opacity: 0.9;
+    height: 300px;
+    padding: 5%;
+}
+.firstHeading {
+    width: 50%;
+    text-align: justify;
+    font-size: xx-large;
+    color: white;
+}
+.secondHeading {
+    width: 50%;
+    text-align: justify;
+    font-size: large;
+    margin-top: 20px;
+    color: white;
+}
+.banner a {
+    text-decoration: none;
+    margin-top: 20px;
+    color: #609edd;
+}

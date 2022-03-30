@@ -1,0 +1,16 @@
+.Footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1% 10%;
+    text-align: center;
+}
+.Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1% 10%;
+}
+.footerlink {
+    color: black;
+}
