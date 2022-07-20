@@ -1,8 +1,11 @@
-## Seed code - Boilerplate
+# Problem Statement: Make an application with React Material UI
 
-### Instructions
-Refer the PROBLEM.md file for the problem description.
+### 1. Create a new project with 'create-react-app' with appropriate commands.
 
-#### To use this as a boilerplate for your assignment, please follow below step.
+### 2. Once the project is made, remove all the default code provided and start with a clean slate to make your own components.
 
-1. **FORK** this repository in your Gitlab account
+### 3. Install Material UI and start building the application.
+
+### 4. Use the below image to take the reference.
+
+![Make an application with React Material UI](./S0117-P1.png)
